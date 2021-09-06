@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Friendly
+
+  Created by Mac on 6.09.2021.
+  
+*/
+
+"friend.fullname" = "Fullname: ";
+"friend.gender" = "Gender: ";
+"friend.country" = "Country: ";
+"friend.email" = "E-mail: ";
+"friend.age" = "Age: ";
+"friend.phoneNumber" = "Phone Number: ";
