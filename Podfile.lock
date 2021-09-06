@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Kingfisher (6.3.1)
+  - MarqueeLabel (4.0.5)
+  - NotificationBannerSwift (3.0.6):
+    - MarqueeLabel (~> 4.0.5)
+    - SnapKit (~> 5.0.1)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (~> 6.0)
+  - NotificationBannerSwift (~> 3.0.0)
+  - RealmSwift (~> 4.4.1)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MarqueeLabel
+    - NotificationBannerSwift
+    - Realm
+    - RealmSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  NotificationBannerSwift: 7021be2338f8f29cf424b0aca43da462bf9e2a1a
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 5ae423d1b36a6e6e0977cd3e6b7a02599697c437
+
+COCOAPODS: 1.10.1
